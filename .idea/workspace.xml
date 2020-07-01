@@ -1,0 +1,1150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="94753527-b306-431a-9831-b81918c79afd" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/atcrowdfunding02-admin-webui/target/" />
+    <ignored path="$PROJECT_DIR$/atcrowdfunding03-admin-component/target/" />
+    <ignored path="$PROJECT_DIR$/atcrowdfunding04-admin-entity/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1867">
+              <caret line="81" column="43" selection-start-line="80" selection-start-column="8" selection-end-line="81" selection-end-column="43" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/atcrowdfunding03-admin-component/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="177">
+              <caret line="68" column="12" selection-start-line="68" selection-start-column="12" selection-end-line="68" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/atcrowdfunding02-admin-webui/src/test/java/com/ydgk/crowd/TestDataSources.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="929">
+              <caret line="47" column="9" selection-start-line="47" selection-start-column="9" selection-end-line="47" selection-end-column="47" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/atcrowdfunding02-admin-webui/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="534">
+              <caret line="36" column="21" selection-start-line="36" selection-start-column="21" selection-end-line="36" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/atcrowdfunding04-admin-entity/src/main/java/com/ydgk/crowd/entity/AdminExample.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="28">
+              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/atcrowdfunding02-admin-webui/src/main/resources/spring-persist-mybatis.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="35">
+              <caret line="27" selection-start-line="27" selection-end-line="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/atcrowdfunding02-admin-webui/src/main/resources/logback.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="616">
+              <caret line="22" column="16" selection-start-line="22" selection-start-column="16" selection-end-line="22" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/atcrowdfunding02-admin-webui/src/main/resources/mybatis/mybatis-config.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="112">
+              <caret line="4" selection-start-line="4" selection-end-line="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/atcrowdfunding03-admin-component/src/main/java/com/ydgk/crowd/mapper/AdminMapper.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="234">
+              <caret line="15" column="29" selection-start-line="15" selection-start-column="29" selection-end-line="15" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/atcrowdfunding04-admin-entity/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="252">
+              <caret line="9" column="38" selection-start-line="9" selection-start-column="38" selection-end-line="9" selection-end-column="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="spring-beans.schema" />
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/atcrowdfunding02-admin-webui/src/main/resources/mybatis/jdbc.properties" />
+        <option value="$PROJECT_DIR$/atcrowdfunding02-admin-webui/src/main/resources/mybatis/mapper/mybatis-config.xml" />
+        <option value="$PROJECT_DIR$/atcrowdfunding02-admin-webui/src/main/resources/mybatis/mapper/spring-persist-mybatis.fxml" />
+        <option value="$PROJECT_DIR$/atcrowdfunding02-admin-webui/src/test/java/CrowdTest.java" />
+        <option value="$PROJECT_DIR$/atcrowdfunding02-admin-webui/src/main/webapp/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/atcrowdfunding02-admin-webui/src/test/java/com/ydgk/crowd/TestSourse.java" />
+        <option value="$PROJECT_DIR$/atcrowdfunding03-admin-component/src/test/java/com/ydgk/crowd/TestSourse.java" />
+        <option value="$PROJECT_DIR$/atcrowdfunding02-admin-webui/src/main/resources/mybatis/mapper/spring-persist-mybatis.xml" />
+        <option value="$PROJECT_DIR$/atcrowdfunding02-admin-webui/src/main/resources/mybatis/spring-persist-mybatis.xml" />
+        <option value="$PROJECT_DIR$/atcrowdfunding02-admin-webui/src/test/java/com/ydgk/crowd/TestDateSource.java" />
+        <option value="$PROJECT_DIR$/atcrowdfunding02-admin-webui/pom.xml" />
+        <option value="$PROJECT_DIR$/atcrowdfunding02-admin-webui/src/main/resources/jdbc.properties" />
+        <option value="$PROJECT_DIR$/atcrowdfunding03-admin-component/src/main/java/com/ydgk/crowd/service/api/AdminService.java" />
+        <option value="$PROJECT_DIR$/atcrowdfunding03-admin-component/src/main/java/com/ydgk/crowd/mapper/AdminMapper.java" />
+        <option value="$PROJECT_DIR$/atcrowdfunding04-admin-entity/src/main/java/com/ydgk/crowd/entity/Admin.java" />
+        <option value="$PROJECT_DIR$/atcrowdfunding02-admin-webui/src/main/resources/mybatis/mybatis-config.xml" />
+        <option value="$PROJECT_DIR$/atcrowdfunding02-admin-webui/src/test/java/com/ydgk/crowd/TestDataSources.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/atcrowdfunding02-admin-webui/src/main/resources/spring-persist-mybatis.xml" />
+        <option value="$PROJECT_DIR$/atcrowdfunding02-admin-webui/src/main/resources/logback.xml" />
+        <option value="$PROJECT_DIR$/atcrowdfunding03-admin-component/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\java\maven\mvnrepository" />
+        <option name="mavenHome" value="D:/java/maven/apache-maven-3.6.0-bin/apache-maven-3.6.0" />
+        <option name="userSettingsFile" value="D:\java\maven\apache-maven-3.6.0-bin\apache-maven-3.6.0\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="atcrowdfunding01-admin-parent" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="atcrowdfunding01-admin-parent" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="atcrowdfunding02-admin-webui Maven Webapp" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="atcrowdfunding02-admin-webui Maven Webapp" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="atcrowdfunding03-admin-component" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="atcrowdfunding03-admin-component" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="547" />
+    <option name="y" value="25" />
+    <option name="width" value="1490" />
+    <option name="height" value="1040" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="atcrowdfunding01-admin-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="atcrowdfunding01-admin-parent" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="atcrowdfunding01-admin-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="atcrowdfunding01-admin-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="atcrowdfunding02-admin-webui" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="atcrowdfunding01-admin-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="atcrowdfunding01-admin-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="atcrowdfunding02-admin-webui" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="atcrowdfunding01-admin-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="atcrowdfunding01-admin-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="atcrowdfunding02-admin-webui" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="atcrowdfunding01-admin-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="atcrowdfunding01-admin-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="atcrowdfunding02-admin-webui" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="atcrowdfunding01-admin-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="atcrowdfunding01-admin-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="atcrowdfunding03-admin-component" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="MANAGE_IGNORE_FILES_PROPERTY" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\workspace\ideaproject\atcrowdfunding01-admin-parent\atcrowdfunding02-admin-webui\src\main\resources" />
+      <recent name="D:\workspace\ideaproject\atcrowdfunding01-admin-parent\atcrowdfunding02-admin-webui\src\main\resources\mybatis" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.ydgk.crowd.mapper" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\workspace\ideaproject\atcrowdfunding01-admin-parent\atcrowdfunding03-admin-component\src\main\java\com\ydgk\crowd\mapper" />
+      <recent name="D:\workspace\ideaproject\atcrowdfunding01-admin-parent\atcrowdfunding04-admin-entity\src\main\java\com\ydgk\crowd" />
+      <recent name="D:\workspace\ideaproject\atcrowdfunding01-admin-parent\atcrowdfunding02-admin-webui\src\main\resources\mybatis\mapper" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.TestDataSources">
+    <configuration name="TestDataSources" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="atcrowdfunding02-admin-webui" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ydgk.crowd.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.ydgk.crowd" />
+      <option name="MAIN_CLASS_NAME" value="com.ydgk.crowd.TestDataSources" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestDataSources.testAdminMapperAutowird" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="atcrowdfunding02-admin-webui" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ydgk.crowd.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.ydgk.crowd" />
+      <option name="MAIN_CLASS_NAME" value="com.ydgk.crowd.TestDataSources" />
+      <option name="METHOD_NAME" value="testAdminMapperAutowird" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestDataSources.testAdminMapperAutowired" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="atcrowdfunding02-admin-webui" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ydgk.crowd.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.ydgk.crowd" />
+      <option name="MAIN_CLASS_NAME" value="com.ydgk.crowd.TestDataSources" />
+      <option name="METHOD_NAME" value="testAdminMapperAutowired" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestDataSources.testDataSource" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="atcrowdfunding02-admin-webui" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ydgk.crowd.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.ydgk.crowd" />
+      <option name="MAIN_CLASS_NAME" value="com.ydgk.crowd.TestDataSources" />
+      <option name="METHOD_NAME" value="testDataSource" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TestDataSources" />
+        <item itemvalue="JUnit.TestDataSources.testAdminMapperAutowired" />
+        <item itemvalue="JUnit.TestDataSources.testDataSource" />
+        <item itemvalue="JUnit.TestDataSources.testAdminMapperAutowird" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="94753527-b306-431a-9831-b81918c79afd" name="Default Changelist" comment="" />
+      <created>1593330984193</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1593330984193</updated>
+      <workItem from="1593330987063" duration="4549000" />
+      <workItem from="1593336754414" duration="1222000" />
+      <workItem from="1593391316286" duration="5621000" />
+      <workItem from="1593397020311" duration="13679000" />
+      <workItem from="1593475344119" duration="3831000" />
+      <workItem from="1593479228205" duration="9310000" />
+      <workItem from="1593491852441" duration="3773000" />
+      <workItem from="1593500618162" duration="541000" />
+      <workItem from="1593503988761" duration="8181000" />
+      <workItem from="1593566993382" duration="6311000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="TestDataSources_testDataSource - 2020.06.30 at 17h 59m 07s.xml">
+      <configuration name="TestDataSources.testDataSource" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestDataSources_testAdminMapperAutowired - 2020.06.30 at 18h 06m 40s.xml">
+      <configuration name="TestDataSources.testAdminMapperAutowired" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestDataSources_testAdminMapperAutowired - 2020.06.30 at 18h 14m 26s.xml">
+      <configuration name="TestDataSources.testAdminMapperAutowired" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestDataSources - 2020.06.30 at 18h 15m 55s.xml">
+      <configuration name="TestDataSources" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestDataSources_testAdminMapperAutowired - 2020.07.01 at 09h 33m 52s.xml">
+      <configuration name="TestDataSources.testAdminMapperAutowired" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestDataSources_testAdminMapperAutowired - 2020.07.01 at 09h 53m 08s.xml">
+      <configuration name="TestDataSources.testAdminMapperAutowired" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestDataSources_testAdminMapperAutowired - 2020.07.01 at 10h 30m 28s.xml">
+      <configuration name="TestDataSources.testAdminMapperAutowired" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestDataSources - 2020.07.01 at 10h 30m 40s.xml">
+      <configuration name="TestDataSources" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestDataSources - 2020.07.01 at 10h 32m 03s.xml">
+      <configuration name="TestDataSources" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestDataSources - 2020.07.01 at 10h 51m 20s.xml">
+      <configuration name="TestDataSources" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="57018000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26912752" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.842953" visible="true" weight="0.21306819" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49932885" weight="0.32954547" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.4986577" weight="0.32954547" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.15704697" side_tool="true" weight="0.9573864" />
+      <window_info anchor="bottom" id="Java Enterprise" order="10" sideWeight="0.49932885" weight="0.32954547" />
+      <window_info anchor="bottom" id="Database Changes" order="11" />
+      <window_info anchor="bottom" id="Version Control" order="12" />
+      <window_info anchor="bottom" id="Spring" order="13" sideWeight="0.49932885" weight="0.32954547" />
+      <window_info anchor="bottom" id="Messages" order="14" sideWeight="0.49932885" weight="0.32954547" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" weight="0.31073827" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Database" order="6" weight="0.3295302" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="uml://MAVEN/com.ydgk.crowd:atcrowdfunding02-admin-webui:1.0-SNAPSHOT">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>MAVEN</ID>
+          <OriginalElement>com.ydgk.crowd:atcrowdfunding02-admin-webui:1.0-SNAPSHOT</OriginalElement>
+          <nodes>
+            <node x="" y="">com.ydgk.crowd:atcrowdfunding02-admin-webui:1.0-SNAPSHOT</node>
+            <node x="" y="">com.ydgk.crowd:atcrowdfunding03-admin-component:jar:1.0-SNAPSHOT</node>
+            <node x="" y="">com.ydgk.crowd:atcrowdfunding03-admin-component:jar:1.0-SNAPSHOT/com.ydgk.crowd:atcrowdfunding04-admin-entity:jar:1.0-SNAPSHOT</node>
+            <node x="" y="">com.ydgk.crowd:atcrowdfunding03-admin-component:jar:1.0-SNAPSHOT/com.ydgk.crowd:atcrowdfunding05-common-util:jar:1.0-SNAPSHOT</node>
+            <node x="" y="">com.ydgk.crowd:atcrowdfunding03-admin-component:jar:1.0-SNAPSHOT/org.springframework:spring-orm:jar:4.3.20.RELEASE</node>
+            <node x="" y="">com.ydgk.crowd:atcrowdfunding03-admin-component:jar:1.0-SNAPSHOT/org.springframework:spring-orm:jar:4.3.20.RELEASE/org.springframework:spring-beans:jar:4.3.20.RELEASE</node>
+            <node x="" y="">com.ydgk.crowd:atcrowdfunding03-admin-component:jar:1.0-SNAPSHOT/org.springframework:spring-orm:jar:4.3.20.RELEASE/org.springframework:spring-core:jar:4.3.20.RELEASE</node>
+            <node x="" y="">com.ydgk.crowd:atcrowdfunding03-admin-component:jar:1.0-SNAPSHOT/org.springframework:spring-orm:jar:4.3.20.RELEASE/org.springframework:spring-core:jar:4.3.20.RELEASE/commons-logging:commons-logging:jar:1.2</node>
+            <node x="" y="">com.ydgk.crowd:atcrowdfunding03-admin-component:jar:1.0-SNAPSHOT/org.springframework:spring-orm:jar:4.3.20.RELEASE/org.springframework:spring-jdbc:jar:4.3.20.RELEASE</node>
+            <node x="" y="">com.ydgk.crowd:atcrowdfunding03-admin-component:jar:1.0-SNAPSHOT/org.springframework:spring-orm:jar:4.3.20.RELEASE/org.springframework:spring-tx:jar:4.3.20.RELEASE</node>
+            <node x="" y="">com.ydgk.crowd:atcrowdfunding03-admin-component:jar:1.0-SNAPSHOT/org.springframework:spring-webmvc:jar:4.3.20.RELEASE</node>
+            <node x="" y="">com.ydgk.crowd:atcrowdfunding03-admin-component:jar:1.0-SNAPSHOT/org.springframework:spring-webmvc:jar:4.3.20.RELEASE/org.springframework:spring-aop:jar:4.3.20.RELEASE</node>
+            <node x="" y="">com.ydgk.crowd:atcrowdfunding03-admin-component:jar:1.0-SNAPSHOT/org.springframework:spring-webmvc:jar:4.3.20.RELEASE/org.springframework:spring-context:jar:4.3.20.RELEASE</node>
+            <node x="" y="">com.ydgk.crowd:atcrowdfunding03-admin-component:jar:1.0-SNAPSHOT/org.springframework:spring-webmvc:jar:4.3.20.RELEASE/org.springframework:spring-expression:jar:4.3.20.RELEASE</node>
+            <node x="" y="">com.ydgk.crowd:atcrowdfunding03-admin-component:jar:1.0-SNAPSHOT/org.springframework:spring-webmvc:jar:4.3.20.RELEASE/org.springframework:spring-web:jar:4.3.20.RELEASE</node>
+            <node x="" y="">com.ydgk.crowd:atcrowdfunding03-admin-component:jar:1.0-SNAPSHOT/org.aspectj:aspectjweaver:jar:1.9.2</node>
+            <node x="" y="">com.ydgk.crowd:atcrowdfunding03-admin-component:jar:1.0-SNAPSHOT/cglib:cglib:jar:2.2</node>
+            <node x="" y="">com.ydgk.crowd:atcrowdfunding03-admin-component:jar:1.0-SNAPSHOT/cglib:cglib:jar:2.2/asm:asm:jar:3.1</node>
+            <node x="" y="">com.ydgk.crowd:atcrowdfunding03-admin-component:jar:1.0-SNAPSHOT/mysql:mysql-connector-java:jar:5.1.3</node>
+            <node x="" y="">com.ydgk.crowd:atcrowdfunding03-admin-component:jar:1.0-SNAPSHOT/com.alibaba:druid:jar:1.0.31</node>
+            <node x="" y="">com.ydgk.crowd:atcrowdfunding03-admin-component:jar:1.0-SNAPSHOT/com.alibaba:druid:jar:1.0.31/com.alibaba:jconsole:jar:1.8.0</node>
+            <node x="" y="">com.ydgk.crowd:atcrowdfunding03-admin-component:jar:1.0-SNAPSHOT/com.alibaba:druid:jar:1.0.31/com.alibaba:tools:jar:1.8.0</node>
+            <node x="" y="">com.ydgk.crowd:atcrowdfunding03-admin-component:jar:1.0-SNAPSHOT/org.mybatis:mybatis:jar:3.2.8</node>
+            <node x="" y="">com.ydgk.crowd:atcrowdfunding03-admin-component:jar:1.0-SNAPSHOT/org.mybatis:mybatis-spring:jar:1.2.2</node>
+            <node x="" y="">com.ydgk.crowd:atcrowdfunding03-admin-component:jar:1.0-SNAPSHOT/com.github.pagehelper:pagehelper:jar:4.0.0</node>
+            <node x="" y="">com.ydgk.crowd:atcrowdfunding03-admin-component:jar:1.0-SNAPSHOT/com.github.pagehelper:pagehelper:jar:4.0.0/com.github.jsqlparser:jsqlparser:jar:0.9.1</node>
+            <node x="" y="">com.ydgk.crowd:atcrowdfunding03-admin-component:jar:1.0-SNAPSHOT/com.fasterxml.jackson.core:jackson-core:jar:2.9.8</node>
+            <node x="" y="">com.ydgk.crowd:atcrowdfunding03-admin-component:jar:1.0-SNAPSHOT/com.fasterxml.jackson.core:jackson-databind:jar:2.9.8</node>
+            <node x="" y="">com.ydgk.crowd:atcrowdfunding03-admin-component:jar:1.0-SNAPSHOT/com.fasterxml.jackson.core:jackson-databind:jar:2.9.8/com.fasterxml.jackson.core:jackson-annotations:jar:2.9.0</node>
+            <node x="" y="">com.ydgk.crowd:atcrowdfunding03-admin-component:jar:1.0-SNAPSHOT/jstl:jstl:jar:1.2</node>
+            <node x="" y="">com.ydgk.crowd:atcrowdfunding03-admin-component:jar:1.0-SNAPSHOT/com.google.code.gson:gson:jar:2.8.5</node>
+            <node x="" y="">com.ydgk.crowd:atcrowdfunding03-admin-component:jar:1.0-SNAPSHOT/org.slf4j:slf4j-api:jar:1.7.7</node>
+            <node x="" y="">com.ydgk.crowd:atcrowdfunding03-admin-component:jar:1.0-SNAPSHOT/ch.qos.logback:logback-classic:jar:1.2.3</node>
+            <node x="" y="">com.ydgk.crowd:atcrowdfunding03-admin-component:jar:1.0-SNAPSHOT/ch.qos.logback:logback-classic:jar:1.2.3/ch.qos.logback:logback-core:jar:1.2.3</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.1901960784313725" x="830.0" y="382.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>All</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/atcrowdfunding02-admin-webui/src/main/resources/mybatis/mapper/spring-persist-mybatis.fxml" />
+    <entry file="file://$PROJECT_DIR$/atcrowdfunding02-admin-webui/src/test/java/CrowdTest.java" />
+    <entry file="file://$PROJECT_DIR$/atcrowdfunding03-admin-component/src/test/java/com/ydgk/crowd/TestSourse.java" />
+    <entry file="file://$PROJECT_DIR$/atcrowdfunding02-admin-webui/src/test/java/com/ydgk/crowd/TestDateSource.java" />
+    <entry file="jar://D:/java/jdk-8u221/src.zip!/java/net/URLClassLoader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="381" column="18" selection-start-line="381" selection-start-column="18" selection-end-line="381" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/runner/RunWith.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-40">
+          <folding>
+            <element signature="e#0#476#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/atcrowdfunding02-admin-webui/src/main/webapp/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="12" column="19" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/atcrowdfunding02-admin-webui/src/main/resources/jdbc.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="28">
+          <caret line="1" column="18" lean-forward="true" selection-start-line="1" selection-start-column="18" selection-end-line="1" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/alibaba/druid/1.0.31/druid-1.0.31.jar!/com/alibaba/druid/pool/DruidDataSource.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="329">
+          <caret line="2849" selection-start-line="2849" selection-end-line="2849" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/atcrowdfunding03-admin-component/src/main/java/com/ydgk/crowd/service/api/AdminService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="8" column="37" selection-start-line="8" selection-start-column="37" selection-end-line="8" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/atcrowdfunding02-admin-webui/src/main/resources/mybatis/mapper/AdminMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1512" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/atcrowdfunding03-admin-component/src/main/java/com/ydgk/crowd/mapper/AdminMapper.xml" />
+    <entry file="uml://MAVEN/com.ydgk.crowd:atcrowdfunding03-admin-component:1.0-SNAPSHOT">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>MAVEN</ID>
+          <OriginalElement>com.ydgk.crowd:atcrowdfunding03-admin-component:1.0-SNAPSHOT</OriginalElement>
+          <nodes>
+            <node x="0.0" y="545.1797495039685">com.ydgk.crowd:atcrowdfunding03-admin-component:1.0-SNAPSHOT</node>
+            <node x="242.5" y="588.2136036706354">com.ydgk.crowd:atcrowdfunding04-admin-entity:jar:1.0-SNAPSHOT</node>
+            <node x="242.0" y="294.03391617063517">com.ydgk.crowd:atcrowdfunding05-common-util:jar:1.0-SNAPSHOT</node>
+            <node x="294.0" y="336.03391617063517">org.springframework:spring-orm:jar:4.3.20.RELEASE</node>
+            <node x="566.0" y="511.23332093254">org.springframework:spring-orm:jar:4.3.20.RELEASE/org.springframework:spring-beans:jar:4.3.20.RELEASE</node>
+            <node x="570.5" y="400.78391617063517">org.springframework:spring-orm:jar:4.3.20.RELEASE/org.springframework:spring-core:jar:4.3.20.RELEASE</node>
+            <node x="694.0" y="400.78391617063517">org.springframework:spring-orm:jar:4.3.20.RELEASE/org.springframework:spring-core:jar:4.3.20.RELEASE/commons-logging:commons-logging:jar:1.2</node>
+            <node x="571.5" y="338.78391617063517">org.springframework:spring-orm:jar:4.3.20.RELEASE/org.springframework:spring-jdbc:jar:4.3.20.RELEASE</node>
+            <node x="578.0" y="254.40891617063517">org.springframework:spring-orm:jar:4.3.20.RELEASE/org.springframework:spring-tx:jar:4.3.20.RELEASE</node>
+            <node x="282.0" y="546.2136036706354">org.springframework:spring-webmvc:jar:4.3.20.RELEASE</node>
+            <node x="572.5" y="701.4416542658734">org.springframework:spring-webmvc:jar:4.3.20.RELEASE/org.springframework:spring-aop:jar:4.3.20.RELEASE</node>
+            <node x="563.5" y="573.23332093254">org.springframework:spring-webmvc:jar:4.3.20.RELEASE/org.springframework:spring-context:jar:4.3.20.RELEASE</node>
+            <node x="554.0" y="462.78391617063517">org.springframework:spring-webmvc:jar:4.3.20.RELEASE/org.springframework:spring-expression:jar:4.3.20.RELEASE</node>
+            <node x="571.5" y="639.4416542658734">org.springframework:spring-webmvc:jar:4.3.20.RELEASE/org.springframework:spring-web:jar:4.3.20.RELEASE</node>
+            <node x="284.5" y="630.2136036706354">org.aspectj:aspectjweaver:jar:1.9.2</node>
+            <node x="310.0" y="845.927951388889">cglib:cglib:jar:2.2</node>
+            <node x="588.5" y="845.927951388889">cglib:cglib:jar:2.2/asm:asm:jar:3.1</node>
+            <node x="266.0" y="672.2136036706354">mysql:mysql-connector-java:jar:5.1.3</node>
+            <node x="309.5" y="788.9636036706354">com.alibaba:druid:jar:1.0.31</node>
+            <node x="578.5" y="803.927951388889">com.alibaba:druid:jar:1.0.31/com.alibaba:jconsole:jar:1.8.0</node>
+            <node x="588.0" y="761.927951388889">com.alibaba:druid:jar:1.0.31/com.alibaba:tools:jar:1.8.0</node>
+            <node x="302.0" y="232.03391617063517">org.mybatis:mybatis:jar:3.2.8</node>
+            <node x="284.0" y="462.21360367063545">org.mybatis:mybatis-spring:jar:1.2.2</node>
+            <node x="293.5" y="929.927951388889">com.github.pagehelper:pagehelper:jar:4.0.0</node>
+            <node x="574.5" y="929.927951388889">com.github.pagehelper:pagehelper:jar:4.0.0/com.github.jsqlparser:jsqlparser:jar:0.9.1</node>
+            <node x="288.5" y="1033.9279513888891">com.fasterxml.jackson.core:jackson-core:jar:2.9.8</node>
+            <node x="278.0" y="971.927951388889">com.fasterxml.jackson.core:jackson-databind:jar:2.9.8</node>
+            <node x="548.0" y="971.927951388889">com.fasterxml.jackson.core:jackson-databind:jar:2.9.8/com.fasterxml.jackson.core:jackson-annotations:jar:2.9.0</node>
+            <node x="315.0" y="714.2136036706354">jstl:jstl:jar:1.2</node>
+            <node x="309.5" y="504.21360367063545">com.google.code.gson:gson:jar:2.8.5</node>
+            <node x="302.0" y="62.0">org.slf4j:slf4j-api:jar:1.7.7</node>
+            <node x="282.0" y="166.0">ch.qos.logback:logback-classic:jar:1.2.3</node>
+            <node x="566.5" y="166.0">ch.qos.logback:logback-classic:jar:1.2.3/ch.qos.logback:logback-core:jar:1.2.3</node>
+            <node x="312.0" y="887.927951388889">junit:junit:jar:4.12</node>
+            <node x="562.0" y="887.927951388889">junit:junit:jar:4.12/org.hamcrest:hamcrest-core:jar:1.3</node>
+            <node x="294.5" y="401.5046502976196">org.springframework:spring-test:jar:4.3.20.RELEASE</node>
+            <node x="291.0" y="124.0">org.slf4j:jcl-over-slf4j:jar:1.7.25</node>
+            <node x="297.5" y="0.0">org.slf4j:jul-to-slf4j:jar:1.7.25</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="org.springframework:spring-webmvc:jar:4.3.20.RELEASE" target="org.springframework:spring-webmvc:jar:4.3.20.RELEASE/org.springframework:spring-context:jar:4.3.20.RELEASE">
+              <point x="51.0" y="1.8333333333333144" />
+              <point x="424.0" y="559.0469370039688" />
+              <point x="444.0" y="586.98332093254" />
+              <point x="-47.5" y="2.75" />
+            </edge>
+            <edge source="com.ydgk.crowd:atcrowdfunding03-admin-component:1.0-SNAPSHOT" target="org.mybatis:mybatis-spring:jar:1.2.2">
+              <point x="106.0" y="-2.0952380952380736" />
+              <point x="232.0" y="473.21360367063545" />
+              <point x="-49.0" y="-0.0" />
+            </edge>
+            <edge source="com.ydgk.crowd:atcrowdfunding03-admin-component:1.0-SNAPSHOT" target="mysql:mysql-connector-java:jar:5.1.3">
+              <point x="106.0" y="3.1428571428571104" />
+              <point x="232.0" y="683.2136036706354" />
+              <point x="-67.0" y="-0.0" />
+            </edge>
+            <edge source="org.springframework:spring-orm:jar:4.3.20.RELEASE" target="org.springframework:spring-orm:jar:4.3.20.RELEASE/org.springframework:spring-tx:jar:4.3.20.RELEASE">
+              <point x="39.0" y="-8.25" />
+              <point x="424.0" y="338.78391617063517" />
+              <point x="444.0" y="258.0755828373018" />
+              <point x="-33.0" y="-7.333333333333371" />
+            </edge>
+            <edge source="com.alibaba:druid:jar:1.0.31" target="com.alibaba:druid:jar:1.0.31/com.alibaba:tools:jar:1.8.0">
+              <point x="23.5" y="-5.5" />
+              <point x="424.0" y="794.4636036706354" />
+              <point x="444.0" y="772.927951388889" />
+              <point x="-23.0" y="-0.0" />
+            </edge>
+            <edge source="com.ydgk.crowd:atcrowdfunding03-admin-component:1.0-SNAPSHOT" target="com.alibaba:druid:jar:1.0.31">
+              <point x="106.0" y="5.238095238095184" />
+              <point x="232.0" y="799.9636036706354" />
+              <point x="-23.5" y="-0.0" />
+            </edge>
+            <edge source="org.springframework:spring-webmvc:jar:4.3.20.RELEASE/org.springframework:spring-context:jar:4.3.20.RELEASE" target="org.springframework:spring-webmvc:jar:4.3.20.RELEASE/org.springframework:spring-aop:jar:4.3.20.RELEASE">
+              <point x="-47.5" y="8.25" />
+              <point x="464.0" y="592.48332093254" />
+              <point x="464.0" y="704.1916542658734" />
+              <point x="-38.5" y="-8.25" />
+            </edge>
+            <edge source="junit:junit:jar:4.12" target="junit:junit:jar:4.12/org.hamcrest:hamcrest-core:jar:1.3">
+              <point x="21.0" y="-0.0" />
+              <point x="-49.0" y="-0.0" />
+            </edge>
+            <edge source="com.ydgk.crowd:atcrowdfunding03-admin-component:1.0-SNAPSHOT" target="ch.qos.logback:logback-classic:jar:1.2.3">
+              <point x="106.0" y="-7.333333333333371" />
+              <point x="232.0" y="182.5" />
+              <point x="-51.0" y="5.5" />
+            </edge>
+            <edge source="org.springframework:spring-webmvc:jar:4.3.20.RELEASE/org.springframework:spring-aop:jar:4.3.20.RELEASE" target="org.springframework:spring-orm:jar:4.3.20.RELEASE/org.springframework:spring-beans:jar:4.3.20.RELEASE">
+              <point x="-38.5" y="-2.75" />
+              <point x="454.0" y="709.6916542658734" />
+              <point x="454.0" y="528.5190352182543" />
+              <point x="-45.0" y="6.285714285714334" />
+            </edge>
+            <edge source="com.ydgk.crowd:atcrowdfunding03-admin-component:1.0-SNAPSHOT" target="com.fasterxml.jackson.core:jackson-core:jar:2.9.8">
+              <point x="106.0" y="10.476190476190482" />
+              <point x="232.0" y="1044.9279513888891" />
+              <point x="-44.5" y="-0.0" />
+            </edge>
+            <edge source="org.springframework:spring-orm:jar:4.3.20.RELEASE" target="org.springframework:spring-orm:jar:4.3.20.RELEASE/org.springframework:spring-beans:jar:4.3.20.RELEASE">
+              <point x="39.0" y="8.25" />
+              <point x="424.0" y="355.28391617063517" />
+              <point x="444.0" y="522.23332093254" />
+              <point x="-45.0" y="-0.0" />
+            </edge>
+            <edge source="org.springframework:spring-webmvc:jar:4.3.20.RELEASE/org.springframework:spring-aop:jar:4.3.20.RELEASE" target="org.springframework:spring-orm:jar:4.3.20.RELEASE/org.springframework:spring-core:jar:4.3.20.RELEASE">
+              <point x="-38.5" y="2.75" />
+              <point x="444.0" y="715.1916542658734" />
+              <point x="444.0" y="413.15891617063517" />
+              <point x="-40.5" y="1.375" />
+            </edge>
+            <edge source="org.springframework:spring-webmvc:jar:4.3.20.RELEASE/org.springframework:spring-web:jar:4.3.20.RELEASE" target="org.springframework:spring-orm:jar:4.3.20.RELEASE/org.springframework:spring-core:jar:4.3.20.RELEASE">
+              <point x="-39.5" y="-0.0" />
+              <point x="474.0" y="650.4416542658734" />
+              <point x="474.0" y="415.90891617063517" />
+              <point x="-40.5" y="4.125" />
+            </edge>
+            <edge source="org.springframework:spring-webmvc:jar:4.3.20.RELEASE/org.springframework:spring-context:jar:4.3.20.RELEASE" target="org.springframework:spring-orm:jar:4.3.20.RELEASE/org.springframework:spring-core:jar:4.3.20.RELEASE">
+              <point x="-47.5" y="-2.75" />
+              <point x="494.0" y="581.48332093254" />
+              <point x="494.0" y="418.65891617063517" />
+              <point x="-40.5" y="6.875" />
+            </edge>
+            <edge source="com.fasterxml.jackson.core:jackson-databind:jar:2.9.8" target="com.fasterxml.jackson.core:jackson-databind:jar:2.9.8/com.fasterxml.jackson.core:jackson-annotations:jar:2.9.0">
+              <point x="55.0" y="-0.0" />
+              <point x="-63.0" y="-0.0" />
+            </edge>
+            <edge source="org.springframework:spring-webmvc:jar:4.3.20.RELEASE" target="org.springframework:spring-webmvc:jar:4.3.20.RELEASE/org.springframework:spring-expression:jar:4.3.20.RELEASE">
+              <point x="51.0" y="-5.5" />
+              <point x="424.0" y="551.7136036706354" />
+              <point x="444.0" y="468.28391617063517" />
+              <point x="-57.0" y="-5.5" />
+            </edge>
+            <edge source="org.springframework:spring-webmvc:jar:4.3.20.RELEASE/org.springframework:spring-web:jar:4.3.20.RELEASE" target="org.springframework:spring-webmvc:jar:4.3.20.RELEASE/org.springframework:spring-aop:jar:4.3.20.RELEASE">
+              <point x="0.0" y="11.0" />
+              <point x="0.0" y="-11.0" />
+            </edge>
+            <edge source="org.springframework:spring-orm:jar:4.3.20.RELEASE/org.springframework:spring-jdbc:jar:4.3.20.RELEASE" target="org.springframework:spring-orm:jar:4.3.20.RELEASE/org.springframework:spring-core:jar:4.3.20.RELEASE">
+              <point x="0.0" y="11.0" />
+              <point x="0.0" y="-11.0" />
+            </edge>
+            <edge source="com.ydgk.crowd:atcrowdfunding03-admin-component:1.0-SNAPSHOT" target="jstl:jstl:jar:1.2">
+              <point x="106.0" y="4.190476190476147" />
+              <point x="232.0" y="725.2136036706354" />
+              <point x="-18.0" y="-0.0" />
+            </edge>
+            <edge source="org.springframework:spring-webmvc:jar:4.3.20.RELEASE" target="org.springframework:spring-webmvc:jar:4.3.20.RELEASE/org.springframework:spring-web:jar:4.3.20.RELEASE">
+              <point x="51.0" y="5.5" />
+              <point x="424.0" y="562.7136036706354" />
+              <point x="444.0" y="657.7749875992067" />
+              <point x="-39.5" y="7.333333333333314" />
+            </edge>
+            <edge source="com.ydgk.crowd:atcrowdfunding03-admin-component:1.0-SNAPSHOT" target="org.springframework:spring-orm:jar:4.3.20.RELEASE">
+              <point x="106.0" y="-4.190476190476147" />
+              <point x="232.0" y="347.03391617063517" />
+              <point x="-39.0" y="-0.0" />
+            </edge>
+            <edge source="ch.qos.logback:logback-classic:jar:1.2.3" target="org.slf4j:slf4j-api:jar:1.7.7">
+              <point x="-51.0" y="-5.5" />
+              <point x="232.0" y="171.5" />
+              <point x="232.0" y="78.5" />
+              <point x="-31.0" y="5.5" />
+            </edge>
+            <edge source="com.github.pagehelper:pagehelper:jar:4.0.0" target="com.github.pagehelper:pagehelper:jar:4.0.0/com.github.jsqlparser:jsqlparser:jar:0.9.1">
+              <point x="39.5" y="-0.0" />
+              <point x="-36.5" y="-0.0" />
+            </edge>
+            <edge source="org.springframework:spring-webmvc:jar:4.3.20.RELEASE/org.springframework:spring-web:jar:4.3.20.RELEASE" target="org.springframework:spring-orm:jar:4.3.20.RELEASE/org.springframework:spring-beans:jar:4.3.20.RELEASE">
+              <point x="-39.5" y="-7.333333333333314" />
+              <point x="484.0" y="643.1083209325401" />
+              <point x="484.0" y="531.6618923611114" />
+              <point x="-45.0" y="9.428571428571445" />
+            </edge>
+            <edge source="com.ydgk.crowd:atcrowdfunding03-admin-component:1.0-SNAPSHOT" target="com.github.pagehelper:pagehelper:jar:4.0.0">
+              <point x="106.0" y="8.380952380952408" />
+              <point x="232.0" y="940.927951388889" />
+              <point x="-39.5" y="-0.0" />
+            </edge>
+            <edge source="com.ydgk.crowd:atcrowdfunding03-admin-component:1.0-SNAPSHOT" target="org.slf4j:slf4j-api:jar:1.7.7">
+              <point x="106.0" y="-9.428571428571445" />
+              <point x="232.0" y="67.5" />
+              <point x="-31.0" y="-5.5" />
+            </edge>
+            <edge source="com.ydgk.crowd:atcrowdfunding03-admin-component:1.0-SNAPSHOT" target="com.ydgk.crowd:atcrowdfunding05-common-util:jar:1.0-SNAPSHOT">
+              <point x="106.0" y="-5.238095238095184" />
+              <point x="-91.0" y="-0.0" />
+            </edge>
+            <edge source="com.ydgk.crowd:atcrowdfunding03-admin-component:1.0-SNAPSHOT" target="com.fasterxml.jackson.core:jackson-databind:jar:2.9.8">
+              <point x="106.0" y="9.428571428571445" />
+              <point x="232.0" y="982.927951388889" />
+              <point x="-55.0" y="-0.0" />
+            </edge>
+            <edge source="com.fasterxml.jackson.core:jackson-databind:jar:2.9.8" target="com.fasterxml.jackson.core:jackson-core:jar:2.9.8">
+              <point x="0.0" y="11.0" />
+              <point x="0.0" y="-11.0" />
+            </edge>
+            <edge source="com.ydgk.crowd:atcrowdfunding05-common-util:jar:1.0-SNAPSHOT" target="org.mybatis:mybatis:jar:3.2.8">
+              <point x="0.0" y="-11.0" />
+              <point x="0.0" y="11.0" />
+            </edge>
+            <edge source="org.springframework:spring-orm:jar:4.3.20.RELEASE" target="org.springframework:spring-orm:jar:4.3.20.RELEASE/org.springframework:spring-jdbc:jar:4.3.20.RELEASE">
+              <point x="39.0" y="-2.75" />
+              <point x="-39.5" y="-5.5" />
+            </edge>
+            <edge source="org.springframework:spring-webmvc:jar:4.3.20.RELEASE" target="org.springframework:spring-webmvc:jar:4.3.20.RELEASE/org.springframework:spring-aop:jar:4.3.20.RELEASE">
+              <point x="51.0" y="9.166666666666686" />
+              <point x="424.0" y="566.3802703373021" />
+              <point x="444.0" y="720.6916542658734" />
+              <point x="-38.5" y="8.25" />
+            </edge>
+            <edge source="org.springframework:spring-webmvc:jar:4.3.20.RELEASE" target="org.springframework:spring-orm:jar:4.3.20.RELEASE/org.springframework:spring-core:jar:4.3.20.RELEASE">
+              <point x="51.0" y="-9.166666666666686" />
+              <point x="424.0" y="548.0469370039688" />
+              <point x="444.0" y="410.40891617063517" />
+              <point x="-40.5" y="-1.375" />
+            </edge>
+            <edge source="org.springframework:spring-orm:jar:4.3.20.RELEASE/org.springframework:spring-jdbc:jar:4.3.20.RELEASE" target="org.springframework:spring-orm:jar:4.3.20.RELEASE/org.springframework:spring-tx:jar:4.3.20.RELEASE">
+              <point x="0.0" y="-11.0" />
+              <point x="0.0" y="11.0" />
+            </edge>
+            <edge source="cglib:cglib:jar:2.2" target="cglib:cglib:jar:2.2/asm:asm:jar:3.1">
+              <point x="23.0" y="-0.0" />
+              <point x="-22.5" y="-0.0" />
+            </edge>
+            <edge source="com.ydgk.crowd:atcrowdfunding03-admin-component:1.0-SNAPSHOT" target="com.ydgk.crowd:atcrowdfunding04-admin-entity:jar:1.0-SNAPSHOT">
+              <point x="106.0" y="1.0476190476190368" />
+              <point x="-90.5" y="-0.0" />
+            </edge>
+            <edge source="org.slf4j:jul-to-slf4j:jar:1.7.25" target="org.slf4j:slf4j-api:jar:1.7.7">
+              <point x="0.0" y="11.0" />
+              <point x="0.0" y="-11.0" />
+            </edge>
+            <edge source="com.ydgk.crowd:atcrowdfunding03-admin-component:1.0-SNAPSHOT" target="org.mybatis:mybatis:jar:3.2.8">
+              <point x="106.0" y="-6.285714285714334" />
+              <point x="232.0" y="243.03391617063517" />
+              <point x="-31.0" y="-0.0" />
+            </edge>
+            <edge source="org.springframework:spring-webmvc:jar:4.3.20.RELEASE/org.springframework:spring-context:jar:4.3.20.RELEASE" target="org.springframework:spring-webmvc:jar:4.3.20.RELEASE/org.springframework:spring-expression:jar:4.3.20.RELEASE">
+              <point x="-47.5" y="-8.25" />
+              <point x="504.0" y="575.98332093254" />
+              <point x="504.0" y="479.28391617063517" />
+              <point x="-57.0" y="5.5" />
+            </edge>
+            <edge source="com.ydgk.crowd:atcrowdfunding03-admin-component:1.0-SNAPSHOT" target="cglib:cglib:jar:2.2">
+              <point x="106.0" y="6.285714285714334" />
+              <point x="232.0" y="856.927951388889" />
+              <point x="-23.0" y="-0.0" />
+            </edge>
+            <edge source="org.springframework:spring-webmvc:jar:4.3.20.RELEASE" target="org.springframework:spring-orm:jar:4.3.20.RELEASE/org.springframework:spring-beans:jar:4.3.20.RELEASE">
+              <point x="51.0" y="-1.8333333333333144" />
+              <point x="424.0" y="555.3802703373021" />
+              <point x="444.0" y="525.3761780753971" />
+              <point x="-45.0" y="3.1428571428571104" />
+            </edge>
+            <edge source="org.springframework:spring-orm:jar:4.3.20.RELEASE/org.springframework:spring-tx:jar:4.3.20.RELEASE" target="org.springframework:spring-orm:jar:4.3.20.RELEASE/org.springframework:spring-beans:jar:4.3.20.RELEASE">
+              <point x="-33.0" y="-0.0" />
+              <point x="514.0" y="265.40891617063517" />
+              <point x="514.0" y="519.0904637896829" />
+              <point x="-45.0" y="-3.1428571428571104" />
+            </edge>
+            <edge source="org.springframework:spring-orm:jar:4.3.20.RELEASE/org.springframework:spring-core:jar:4.3.20.RELEASE" target="org.springframework:spring-orm:jar:4.3.20.RELEASE/org.springframework:spring-core:jar:4.3.20.RELEASE/commons-logging:commons-logging:jar:1.2">
+              <point x="40.5" y="-0.0" />
+              <point x="-57.5" y="-0.0" />
+            </edge>
+            <edge source="org.springframework:spring-test:jar:4.3.20.RELEASE" target="org.springframework:spring-orm:jar:4.3.20.RELEASE/org.springframework:spring-core:jar:4.3.20.RELEASE">
+              <point x="38.5" y="-0.0" />
+              <point x="424.0" y="412.5046502976196" />
+              <point x="444.0" y="407.65891617063517" />
+              <point x="-40.5" y="-4.125" />
+            </edge>
+            <edge source="ch.qos.logback:logback-classic:jar:1.2.3" target="ch.qos.logback:logback-classic:jar:1.2.3/ch.qos.logback:logback-core:jar:1.2.3">
+              <point x="51.0" y="-0.0" />
+              <point x="-44.5" y="-0.0" />
+            </edge>
+            <edge source="com.ydgk.crowd:atcrowdfunding03-admin-component:1.0-SNAPSHOT" target="junit:junit:jar:4.12">
+              <point x="106.0" y="7.333333333333371" />
+              <point x="232.0" y="898.927951388889" />
+              <point x="-21.0" y="-0.0" />
+            </edge>
+            <edge source="com.ydgk.crowd:atcrowdfunding03-admin-component:1.0-SNAPSHOT" target="org.aspectj:aspectjweaver:jar:1.9.2">
+              <point x="106.0" y="2.0952380952380736" />
+              <point x="232.0" y="641.2136036706354" />
+              <point x="-48.5" y="-0.0" />
+            </edge>
+            <edge source="org.springframework:spring-orm:jar:4.3.20.RELEASE/org.springframework:spring-tx:jar:4.3.20.RELEASE" target="org.springframework:spring-orm:jar:4.3.20.RELEASE/org.springframework:spring-core:jar:4.3.20.RELEASE">
+              <point x="-33.0" y="7.333333333333371" />
+              <point x="534.0" y="272.74224950396854" />
+              <point x="534.0" y="402.15891617063517" />
+              <point x="-40.5" y="-9.625" />
+            </edge>
+            <edge source="com.ydgk.crowd:atcrowdfunding03-admin-component:1.0-SNAPSHOT" target="org.slf4j:jul-to-slf4j:jar:1.7.25">
+              <point x="106.0" y="-10.476190476190482" />
+              <point x="232.0" y="11.0" />
+              <point x="-35.5" y="-0.0" />
+            </edge>
+            <edge source="org.springframework:spring-orm:jar:4.3.20.RELEASE/org.springframework:spring-jdbc:jar:4.3.20.RELEASE" target="org.springframework:spring-orm:jar:4.3.20.RELEASE/org.springframework:spring-beans:jar:4.3.20.RELEASE">
+              <point x="-39.5" y="5.5" />
+              <point x="524.0" y="355.28391617063517" />
+              <point x="524.0" y="515.9476066468256" />
+              <point x="-45.0" y="-6.285714285714334" />
+            </edge>
+            <edge source="com.alibaba:druid:jar:1.0.31" target="com.alibaba:druid:jar:1.0.31/com.alibaba:jconsole:jar:1.8.0">
+              <point x="23.5" y="5.5" />
+              <point x="424.0" y="805.4636036706354" />
+              <point x="444.0" y="814.927951388889" />
+              <point x="-32.5" y="-0.0" />
+            </edge>
+            <edge source="com.ydgk.crowd:atcrowdfunding03-admin-component:1.0-SNAPSHOT" target="org.slf4j:jcl-over-slf4j:jar:1.7.25">
+              <point x="106.0" y="-8.380952380952408" />
+              <point x="232.0" y="135.0" />
+              <point x="-42.0" y="-0.0" />
+            </edge>
+            <edge source="org.springframework:spring-webmvc:jar:4.3.20.RELEASE/org.springframework:spring-expression:jar:4.3.20.RELEASE" target="org.springframework:spring-orm:jar:4.3.20.RELEASE/org.springframework:spring-core:jar:4.3.20.RELEASE">
+              <point x="0.0" y="-11.0" />
+              <point x="0.0" y="11.0" />
+            </edge>
+            <edge source="org.springframework:spring-orm:jar:4.3.20.RELEASE" target="org.springframework:spring-orm:jar:4.3.20.RELEASE/org.springframework:spring-core:jar:4.3.20.RELEASE">
+              <point x="39.0" y="2.75" />
+              <point x="424.0" y="349.78391617063517" />
+              <point x="444.0" y="404.90891617063517" />
+              <point x="-40.5" y="-6.875" />
+            </edge>
+            <edge source="com.ydgk.crowd:atcrowdfunding03-admin-component:1.0-SNAPSHOT" target="org.springframework:spring-test:jar:4.3.20.RELEASE">
+              <point x="106.0" y="-3.1428571428571104" />
+              <point x="232.0" y="412.5046502976196" />
+              <point x="-38.5" y="-0.0" />
+            </edge>
+            <edge source="org.springframework:spring-webmvc:jar:4.3.20.RELEASE/org.springframework:spring-context:jar:4.3.20.RELEASE" target="org.springframework:spring-orm:jar:4.3.20.RELEASE/org.springframework:spring-beans:jar:4.3.20.RELEASE">
+              <point x="0.0" y="-11.0" />
+              <point x="0.0" y="11.0" />
+            </edge>
+            <edge source="com.ydgk.crowd:atcrowdfunding03-admin-component:1.0-SNAPSHOT" target="org.springframework:spring-webmvc:jar:4.3.20.RELEASE">
+              <point x="106.0" y="-0.0" />
+              <point x="-51.0" y="-0.0" />
+            </edge>
+            <edge source="com.ydgk.crowd:atcrowdfunding03-admin-component:1.0-SNAPSHOT" target="com.google.code.gson:gson:jar:2.8.5">
+              <point x="106.0" y="-1.0476190476190368" />
+              <point x="232.0" y="515.2136036706354" />
+              <point x="-23.5" y="-0.0" />
+            </edge>
+            <edge source="org.slf4j:jcl-over-slf4j:jar:1.7.25" target="org.slf4j:slf4j-api:jar:1.7.7">
+              <point x="0.0" y="-11.0" />
+              <point x="0.0" y="11.0" />
+            </edge>
+            <edge source="org.springframework:spring-webmvc:jar:4.3.20.RELEASE/org.springframework:spring-web:jar:4.3.20.RELEASE" target="org.springframework:spring-webmvc:jar:4.3.20.RELEASE/org.springframework:spring-context:jar:4.3.20.RELEASE">
+              <point x="0.0" y="-11.0" />
+              <point x="0.0" y="11.0" />
+            </edge>
+            <edge source="org.springframework:spring-orm:jar:4.3.20.RELEASE/org.springframework:spring-beans:jar:4.3.20.RELEASE" target="org.springframework:spring-orm:jar:4.3.20.RELEASE/org.springframework:spring-core:jar:4.3.20.RELEASE">
+              <point x="-45.0" y="-9.428571428571445" />
+              <point x="534.0" y="512.8047495039685" />
+              <point x="534.0" y="421.40891617063517" />
+              <point x="-40.5" y="9.625" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.2856877323420077" x="410.0" y="392.0" />
+          <SelectedNodes>
+            <node>org.springframework:spring-orm:jar:4.3.20.RELEASE/org.springframework:spring-core:jar:4.3.20.RELEASE/commons-logging:commons-logging:jar:1.2</node>
+            <node>com.ydgk.crowd:atcrowdfunding03-admin-component:1.0-SNAPSHOT</node>
+          </SelectedNodes>
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>All</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$MAVEN_REPOSITORY$/org/springframework/spring-core/4.3.20.RELEASE/spring-core-4.3.20.RELEASE.pom">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1316">
+          <caret line="47" column="18" selection-start-line="47" selection-start-column="18" selection-end-line="47" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/atcrowdfunding04-admin-entity/src/main/java/com/ydgk/crowd/entity/Admin.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="15" column="20" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/atcrowdfunding04-admin-entity/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="9" column="38" selection-start-line="9" selection-start-column="38" selection-end-line="9" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/atcrowdfunding03-admin-component/src/main/java/com/ydgk/crowd/mapper/AdminMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="15" column="29" selection-start-line="15" selection-start-column="29" selection-end-line="15" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/atcrowdfunding02-admin-webui/src/main/resources/mybatis/mybatis-config.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/atcrowdfunding04-admin-entity/src/main/java/com/ydgk/crowd/entity/AdminExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="28">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/atcrowdfunding02-admin-webui/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="534">
+          <caret line="36" column="21" selection-start-line="36" selection-start-column="21" selection-end-line="36" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/atcrowdfunding02-admin-webui/src/main/resources/spring-persist-mybatis.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="35">
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/atcrowdfunding02-admin-webui/src/test/java/com/ydgk/crowd/TestDataSources.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="929">
+          <caret line="47" column="9" selection-start-line="47" selection-start-column="9" selection-end-line="47" selection-end-column="47" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/atcrowdfunding02-admin-webui/src/main/resources/logback.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="616">
+          <caret line="22" column="16" selection-start-line="22" selection-start-column="16" selection-end-line="22" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1867">
+          <caret line="81" column="43" selection-start-line="80" selection-start-column="8" selection-end-line="81" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/atcrowdfunding03-admin-component/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="177">
+          <caret line="68" column="12" selection-start-line="68" selection-start-column="12" selection-end-line="68" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>atcrowdfunding02-admin-webui:war</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>atcrowdfunding02-admin-webui</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
