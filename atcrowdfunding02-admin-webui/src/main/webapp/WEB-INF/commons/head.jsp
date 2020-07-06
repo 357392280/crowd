@@ -8,5 +8,6 @@
 <meta name="author" content="">
 <link rel="stylesheet" href="/bootstrap/css/bootstrap.min.css">
 <link rel="stylesheet" href="/css/font-awesome.min.css">
-<link rel="stylesheet" href="/css/login.css">
+<link rel="stylesheet" href="css/login.css">
 <link rel="stylesheet" href="/layer/layer.js">
+<link rel="stylesheet" href="/img">

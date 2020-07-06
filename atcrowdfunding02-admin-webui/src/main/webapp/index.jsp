@@ -10,5 +10,6 @@
 <body>
 <a href="/test/aaa/bbb/ccc.html"> 测试连接</a>
 <a href="/admin/to/login/page.html">测试连接2</a>
+<a href="admin/do/login.html">测试连接3</a>
 </body>
 </html>

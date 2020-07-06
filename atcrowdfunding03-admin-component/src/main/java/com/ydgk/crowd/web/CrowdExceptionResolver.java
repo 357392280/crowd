@@ -1,10 +1,12 @@
 package com.ydgk.crowd.web;
 
 import com.google.gson.Gson;
-import com.ydgk.crowd.constant.CrowdConstant;
-import com.ydgk.crowd.util.ResultEntity;
+import com.ydgk.crowd.ssm.constant.CrowdConstant;
+import com.ydgk.crowd.ssm.exception.LoginFailedException;
+import com.ydgk.crowd.ssm.util.ResultEntity;
 import com.ydgk.crowd.util.UtilCrowd;
 import org.springframework.web.bind.annotation.ControllerAdvice;
+import org.springframework.web.bind.annotation.ExceptionHandler;
 import org.springframework.web.servlet.ModelAndView;
 
 import javax.servlet.http.HttpServletRequest;
@@ -59,7 +61,11 @@ public class CrowdExceptionResolver {
       // 12、返回ModelAndView对象
       return modelAndView;
 
-
-
+  }
+  @ExceptionHandler(value = LoginFailedException.class)
+  public ModelAndView resolveLoginFailedException(
+          LoginFailedException exception, HttpServletRequest request, HttpServletResponse response ) throws IOException {
+      String viewName = "admin-login";
+      return commonResolveException(exception,request,response,viewName);
   }
 }

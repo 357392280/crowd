@@ -4,7 +4,11 @@
 <head>
     <jsp:include page="/WEB-INF/commons/head.jsp"></jsp:include>
     <style>
-
+        .form-signin {
+            max-width: 330px;
+            padding: 15px;
+            margin: 0 auto;
+        }
     </style>
 </head>
 
@@ -20,21 +24,21 @@
 
 <div class="container">
 
-    <form class="form-signin" role="form">
+    <form class="form-signin" role="form" action="/admin/do/login.html" type="post">
         <h2 class="form-signin-heading"><i class="glyphicon glyphicon-log-in"></i> 管理员登录</h2>
         <div class="form-group has-success has-feedback">
-            <input type="text" class="form-control" id="inputSuccess4" placeholder="请输入登录账号" autofocus>
+            <input type="text" name="loginAcct" class="form-control" id="succeed" placeholder="请输入登录账号" autofocus>
             <span class="glyphicon glyphicon-user form-control-feedback"></span>
         </div>
         <div class="form-group has-success has-feedback">
-            <input type="text" class="form-control" id="inputSuccess4" placeholder="请输入登录密码" style="margin-top:10px;">
+            <input name="userpswd" type="text" class="form-control" id="succeed2" placeholder="请输入登录密码" style="margin-top:10px;">
             <span class="glyphicon glyphicon-lock form-control-feedback"></span>
         </div>
-        <a class="btn btn-lg btn-success btn-block" href="main.html" > 登录</a>
+        <button class="btn btn-lg btn-success btn-block"  > 登录</button>
     </form>
 </div>
-<script src="/jquery/jquery-2.1.1.min.js"></script>
-<script src="/bootstrap/js/bootstrap.min.js"></script>
+<script src="jquery/jquery-2.1.1.min.js"></script>
+<script src="bootstrap/js/bootstrap.min.js"></script>
 
 
 </body>
